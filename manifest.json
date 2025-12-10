@@ -1,0 +1,19 @@
+{
+  "name": "Casino Locarno",
+  "short_name": "Casino Locarno",
+  "theme_color": "",
+  "background_color": "#00203D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765365693-favicon-32x32-6.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

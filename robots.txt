@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinolocarno-online.com/
+Sitemap: https://casinolocarno-online.com/sitemap.xml
